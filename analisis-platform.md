@@ -13,3 +13,11 @@
 1. MDN Web Docs, "Learn web development" — https://developer.mozilla.org/en-US/docs/Learn_web_development
 2. Electron Documentation — https://www.electronjs.org/docs/latest
 3. Android Developers, "Platform Architecture" — https://developer.android.com/guide/platform
+
+## Refleksi
+
+Dari ketiga platform, saya paling tertarik mempelajari pengembangan mobile. Hampir semua orang memakai ponsel setiap hari, sehingga aplikasi mobile punya jangkauan pengguna yang luas dan memanfaatkan fitur perangkat seperti kamera, GPS, dan notifikasi. Selain itu, saya juga tertarik pada cybersecurity, dan platform mobile membuka peluang untuk mempelajari keamanan aplikasi karena aplikasi mobile banyak menyimpan data pribadi pengguna. Dengan memahami cara membangun aplikasi mobile, saya bisa sekaligus belajar cara mengamankannya.
+
+Untuk setup environment, seluruh tools seperti Git, Node.js, VS Code, Java JDK, dan Android Studio sudah terpasang sebelumnya, sehingga pada tugas ini saya hanya perlu memverifikasi versinya lewat terminal. Tantangan terbesar justru muncul saat mengunggah pekerjaan ke GitHub. Saya sempat kesulitan saat melakukan push karena GitHub tidak lagi menerima password akun untuk autentikasi lewat HTTPS, sehingga saya harus membuat Personal Access Token terlebih dahulu.
+
+Untuk mengatasinya, saya mempelajari cara kerja token dan menyimpannya dengan aman, tanpa memasukkannya ke dalam repository. Ke depan, saya berencana membaca dokumentasi resmi GitHub sebelum memulai langkah baru dan mencoba autentikasi SSH agar proses push lebih praktis. Saya juga akan membiasakan memeriksa pesan error dengan teliti sebelum mencari solusi, sehingga masalah serupa bisa diselesaikan lebih cepat.
